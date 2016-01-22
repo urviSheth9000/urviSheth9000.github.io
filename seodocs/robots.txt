@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /seodocs/
+Sitemap: http://oizom.com/seodocs/sitemap.xml
